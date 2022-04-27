@@ -79,7 +79,7 @@ rankdir=LR ;
 33 -> 37 ;
 38 [label=<Mean_NIR &le; 476.601<br/>entropy = 0.887<br/>samples = 46<br/>value = [32, 14]<br/>class = all other land cover>, fillcolor="#f0b890"] ;
 37 -> 38 ;
-39 [label=<SD_pan &le; 20.447<br/>entropy = 0.267<br/>samples = 22<br/>value = [21, 1]<br/>class = all other land cover>, fillcolor="#e68742"] ;
+39 [label=<Mean_Red &le; 114.111<br/>entropy = 0.267<br/>samples = 22<br/>value = [21, 1]<br/>class = all other land cover>, fillcolor="#e68742"] ;
 38 -> 39 ;
 40 [label=<entropy = 0.469<br/>samples = 10<br/>value = [9, 1]<br/>class = all other land cover>, fillcolor="#e88f4f"] ;
 39 -> 40 ;
